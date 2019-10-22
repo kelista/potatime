@@ -1,5 +1,6 @@
 ## Potatime
 Potatime is easy to use javascript timer.
+(under development)
 
 ### Installation
 	npm i potatime
